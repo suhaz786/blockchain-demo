@@ -94,3 +94,6 @@ curl http://localhost:8080/agent/all
 ```
 curl -X DELETE http://localhost:8080/agent/all
 ```
+
+---
+[![Visits Badge](https://badges.pufler.dev/visits/suhaz786/blockchain-demo)](https://badges.pufler.dev)
